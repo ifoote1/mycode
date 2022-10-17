@@ -20,4 +20,4 @@ What things are needed to install the software and how to install them. For now,
 
 ## Authors
 
-* **Isaac Foote** - *IF* - [YourWebsite](https://example.com/)
+* **Isaac Foote** - *Initals Here* - [YourWebsite](https://example.com/)
